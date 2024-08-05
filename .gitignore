@@ -6,6 +6,7 @@
 *.lo
 *.o
 *.obj
+build/
 
 # Precompiled Headers
 *.gch
@@ -25,7 +26,7 @@
 *.la
 *.a
 *.lib
-
+*.vscode
 # Executables
 *.exe
 *.out
